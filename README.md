@@ -32,7 +32,7 @@ The implementation is based on [BERT repository](https://github.com/google-resea
 
 @NVIDIA TESLA T4
 | Optimizer | MLP | CNN | Bi-RNN | Bi-GRU | Bi-LSTM | Note | 
-| :------ | :-----: | :-----: | :-----: | :-----: | 
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Adam | - | - | - | - | - | Just ordinary Adam |
 | AdamW | - | - | - | - | - | Used in BERT |
 | **LAMB** | - | - | - | - | - | New optimizer for large batch |
