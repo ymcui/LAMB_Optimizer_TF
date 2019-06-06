@@ -29,8 +29,8 @@ The implementation is based on [BERT repository](https://github.com/google-resea
 - Here are the numbers on several three classical neural networks **(MLP, CNN, Bi-RNN, Bi-GRU, Bi-LSTM)**. 
 - All optimizers use an initial learning rate of **0.001** (default settings).
 - All experiments are carried out for **5 times** and we report `MAX (AVG±STD)`. You know the GPU/TPU won't get exactly the same results even we use fixed random seed.
+- Done on NVIDIA TESLA T4
 
-@NVIDIA TESLA T4
 | Optimizer | MLP | CNN | Bi-RNN | Bi-GRU | Bi-LSTM | Note | 
 | :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Adam | - | - | - | - | - | Just ordinary Adam |
