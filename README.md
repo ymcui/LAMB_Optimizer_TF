@@ -67,10 +67,6 @@ I only list results of batch={64, 128, 1024, 16384}. For full results, please se
 | **LAMB** | **93.23** | **97.89** | 93.76 | 87.60 | 80.36 | New optimizer for large batch |
 
 
-
-
-
-
 ### Several Conclusions
 **Note: The conclusions are only made by the results above.**
 
