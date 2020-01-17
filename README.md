@@ -3,6 +3,8 @@ This is a simple implementation of LAMB Optimizer, which appeared in the paper [
 
 The older name of the paper was ["Reducing BERT Pre-Training Time from 3 Days to 76 Minutes"](https://arxiv.org/abs/1904.00962v1)
 
+**Update: official implementation of LAMB optimizer is now available: https://github.com/tensorflow/addons/blob/master/tensorflow_addons/optimizers/lamb.py**
+
 
 ## Notes
 - **This is NOT an official implementation.**
